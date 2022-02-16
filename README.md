@@ -1,4 +1,5 @@
-<h1><a href="https://drotsyk.github.io/convert/">Preview</a></h1>
+<h1><a href="https://drotsyk.github.io/converter/">Preview</a></h1>
+
 <hr>
 <h2>Technologies</h2>
 <ul>
